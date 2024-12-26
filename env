@@ -1,0 +1,10 @@
+# App
+HOST=localhost
+PORT=5000
+DEBUG=True
+ACCESS_TOKEN="xxx"
+# Info
+APP_VERSI="v1.0.0"
+APP_NAME="Face Recognition"
+DEV_NAME="Sejator Dev"
+DEV_EMAIL="sejatordev@gmail.com"
